@@ -1,0 +1,55 @@
+/* This is the style code for Broadway */
+
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/* This is the Title Section */
+.title {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+.title h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+.link {
+  color: white;
+  font-size: 18px;
+}
+
+/* This is the Process Section */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.process,.us {
+  color: gray;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+
+/* This is the Us Section */
+#newyork {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+/* This is the Footer Section */
+.footer p {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
